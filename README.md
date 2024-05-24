@@ -17,7 +17,9 @@ Estou orgulhoso do trabalho árduo da equipe e do potencial transformador do La�
 ## Habilidades Desenvolvidas
 
 - **Design Thinking**: Desenvolvemos soluções criativas para problemas complexos.
-- **Prototipagem no Figma**: Utilizamos o Figma para criar protótipos interativos e visualizar nossa solução.
+  
+- ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+**Prototipagem no Figma**: Utilizamos o Figma para criar protótipos interativos e visualizar nossa solução.
 - **Trabalho em Equipe**: Colaboramos de forma eficaz para alcançar nossos objetivos.
 - **Comunicação**: Comunicamos nossas ideias e visão de forma clara e eficaz.
 
